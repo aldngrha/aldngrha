@@ -106,5 +106,5 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
-![streak graph](https://streak-stats.demolab.com?user=aldngrha&locale=en&mode=daily&hide_border=false&border_radius=5&order=3) &nbsp; &nbsp; ![languages graph](https://github-readme-stats.vercel.app/api/top-langs?username=aldngrha&locale=en&hide_title=false&layout=compact&card_width=450&height=320&langs_count=5&hide_border=false)
+![streak graph](https://streak-stats.demolab.com?user=aldngrha&locale=en&mode=daily&hide_border=false&border_radius=5&order=3) &nbsp; &nbsp; ![languages graph](https://github-readme-stats.vercel.app/api/top-langs?username=aldngrha&locale=en&hide_title=false&layout=compact&card_width=450&langs_count=8&hide_border=false)
 
