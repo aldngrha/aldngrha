@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since the days of 'copy-paste' programming. Embracing the bugs, fixing them, and learning along the way!<br><br>📚 I'm currently immersing myself in the world of blockchain technology and exploring its potential to revolutionize various industries.<br><br>🎯 Goals: To architect scalable and secure software solutions that prioritize user privacy and data protection, contributing to a safer digital ecosystem.<br><br>🎲 Fun fact: I'm an avid fan of anime and manga, with a collection that rivals a small library. When I'm not immersed in fictional worlds, you'll find me cheering for my favorite football team on game days!</p>
+<p align="left">✨ Crafting code with care, debugging with determination, and evolving with every error.<br><br>📚 I'm currently immersing myself in the world of blockchain technology and exploring its potential to revolutionize various industries.<br><br>🎯 Goals: To architect scalable and secure software solutions that prioritize user privacy and data protection, contributing to a safer digital ecosystem.<br><br>🎲 Fun fact: I'm an avid fan of anime and manga, with a collection that rivals a small library. When I'm not immersed in fictional worlds, you'll find me cheering for my favorite football team on game days!</p>
 
 ###
 
