@@ -35,7 +35,7 @@
 ### 🔭 Currently Learning
 
 - Blockchain architecture (EVM & beyond)
-- Smart contracts with <b>Solidity</b> & <b>Rust</b>
+- Smart contracts with <b>Solidity</b>
 - Security best practices for Web3
 - Decentralized app frameworks
 
@@ -43,9 +43,9 @@
 
 ###
 
-<h3 align="left">🌐   Social Media :</h3>
+<h2 align="left">🌐   Social Media </h2>
 
-<div align="left">
+<div align="center">
     <a
         href="https://instagram.com/aldngrha"
         target="_blank"
@@ -100,10 +100,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aldngrha&show_icons=true&theme=radical" alt="Aldin's GitHub Stats" width="420"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aldngrha&theme=radical" alt="Aldin's GitHub Streak" width="420"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aldngrha&show_icons=true&bg_color=cce7ff&title_color=0056a1&text_color=024985&icon_color=0c8ce9&border_color=7cc7ff" width="420" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aldngrha&theme=default&background=cce7ff&currStreakLabel=0056a1&currStreakNum=0c8ce9&sideLabels=024985&sideNums=024985&dates=024985&ring=0c8ce9&fire=0c8ce9&border=7cc7ff" width="420"/>
   <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aldngrha&theme=react-dark" alt="Aldin's Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aldngrha&bg_color=cce7ff&color=0056a1&line=0c8ce9&point=false&area=true&area_color=083d6e&hide_border=true" />
 </p>
 
 ---
