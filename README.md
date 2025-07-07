@@ -1,8 +1,11 @@
-<h1 align="left">Hey there! 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:b9dfff,100:0c8ce9&height=180&section=header&text=Aldi%20Nugraha&fontSize=42&fontColor=ffffff&animation=twinkling" alt="Aldi Nugraha Banner"/>
+</p>
 
-###
-
-<p align="left">I'm Aldi Nugraha, a passionate Software Engineer hailing from Bandar Lampung, Indonesia. With a keen interest in crafting efficient and scalable software solutions, I'm dedicated to pushing the boundaries of technology and making a positive impact through code. Let's collaborate, innovate, and build the future together! 💻🚀</p>
+<h2 align="center" style="color:#1e90ff;">👋 Hey there! I'm Aldi Nugraha</h2>
+<p align="center">
+  <b>Software Engineer</b> | <b>Blockchain Explorer</b> | <b>Lifelong Learner</b>
+</p>
 
 ###
 
@@ -10,53 +13,37 @@
 
 ###
 
-<p align="left">✨ Crafting code with care, debugging with determination, and evolving with every error.<br><br>📚 I'm currently immersing myself in the world of blockchain technology and exploring its potential to revolutionize various industries.<br><br>🎯 Goals: To architect scalable and secure software solutions that prioritize user privacy and data protection, contributing to a safer digital ecosystem.<br><br>🎲 Fun fact: I'm an avid fan of anime and manga, with a collection that rivals a small library. When I'm not immersed in fictional worlds, you'll find me cheering for my favorite football team on game days!</p>
+- 🧑‍💻 Software engineer with a strong focus on <b>TypeScript, Go, Swift, Kotlin, and JavaScript</b>
+- 🌍 Currently <b>exploring blockchain</b> — aiming to become a Blockchain Engineer
+- 💡 Love to build, learn, and share knowledge about cutting-edge tech
+- 🎯 <b>Goal:</b> Master smart contract development and decentralized app architecture
 
 ###
 
-<h2 align="left">I code with</h2>
+### 🛠️ Tech Stack
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/express/000000" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nuxtdotjs/00DC82" height="40" alt="nuxtjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/go/00ADD8" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appwrite/appwrite-original.svg" height="40" alt="appwrite logo"  />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=typescript,js,go,swift,kotlin,nodejs,react,solidity,git,nuxt,next,remix,vue,svelte,nest" alt="Tech Stack" /><br>
+  <img src="https://img.shields.io/badge/-Web3-31C48D?logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Blockchain-4B0082?style=flat-square" />
+</p>
+
+---
+
+### 🔭 Currently Learning
+
+- Blockchain architecture (EVM & beyond)
+- Smart contracts with <b>Solidity</b> & <b>Rust</b>
+- Security best practices for Web3
+- Decentralized app frameworks
+
+---
 
 ###
 
 <h3 align="left">🌐   Social Media :</h3>
-
-###
 
 <div align="left">
     <a
@@ -81,6 +68,13 @@
             alt="discord logo"
         />
     </a>
+    <a
+        href="https://x.com/kulidigitall"
+        target="_blank"
+        rel="noopener noreferrer"
+    >
+      <img src="https://img.shields.io/badge/-X-000000?logo=x&logoColor=white&style=for-the-badge" height="35" alt="x"/>
+    </a>
     <a href="mailto:aldi.nugrahatk@gmail.com">
         <img
             src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge"
@@ -101,10 +95,39 @@
     </a>
 </div>
 
-###
+---
 
-<h3 align="left">🔥   My Stats :</h3>
+### 📊 GitHub Stats
 
-###
-![streak graph](https://streak-stats.demolab.com?user=aldngrha&locale=en&mode=daily&hide_border=false&border_radius=5&order=3) &nbsp; &nbsp; ![languages graph](https://github-readme-stats.vercel.app/api/top-langs?username=aldngrha&locale=en&hide_title=false&layout=compact&card_width=450&langs_count=8&hide_border=false)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aldngrha&show_icons=true&theme=radical" alt="Aldin's GitHub Stats" width="420"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aldngrha&theme=radical" alt="Aldin's GitHub Streak" width="420"/>
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aldngrha&theme=react-dark" alt="Aldin's Activity Graph"/>
+</p>
+
+---
+
+### 🌱 Personal Philosophy
+
+> <i>“The best way to predict the future is to invent it.” – Alan Kay</i>
+
+- 🧠 I believe in constant growth, collaboration, and building things that matter.
+- 🤝 Open to interesting collaborations and blockchain projects!
+
+---
+
+### 🕹️ Fun Facts
+
+- 📚 I love to read (tech, sci-fi, self-improvement)
+- 🎮 Gaming is my way to unwind and discover new worlds
+- 🏋️‍♂️ Workout keeps my mind and body sharp
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aldngrha&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
+
+<p align="center">
+  <b>Thanks for stopping by! Let's build the future together. 🚀</b>
+</p>
 
