@@ -121,7 +121,7 @@
 
 - 📚 I love to read (tech, sci-fi, self-improvement)
 - 🎮 Gaming is my way to unwind and discover new worlds
-- 🏋️‍♂️ Workout keeps my mind and body sharp
+- 🏋️‍♂️ Workout keeps my mind
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aldngrha&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
