@@ -4,7 +4,7 @@
 
 <h2 align="center" style="color:#1e90ff;">👋 Hey there! I'm Aldi Nugraha</h2>
 <p align="center">
-  <b>Software Engineer</b> | <b>Blockchain Explorer</b> | <b>Lifelong Learner</b>
+  <b>Software Engineer</b> | <b>Exploring Web3 & Blockchain</b> | <b>Lifelong Learner</b>
 </p>
 
 ###
